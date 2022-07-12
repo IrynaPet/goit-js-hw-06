@@ -1,3 +1,4 @@
+// * варіант 1
 // const textInput = document.querySelector("input");
 // const textEl = document.querySelector("#text");
 
@@ -6,6 +7,7 @@
 //   textEl.style.fontSize = `${event.currentTarget.value}px`;
 // });
 
+// * варіант 2
 const slider = document.getElementById("font-size-control");
 const span = document.getElementById("text");
 
